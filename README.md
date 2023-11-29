@@ -19,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patrick-batman&show_icons=true&locale=en&layout=compact" alt="patrick-batman" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrick-batman&show_icons=true&locale=en" alt="patrick-batman" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrick-batman&show_icons=true&locale=en" alt="patrick-batman" /></p> -->
