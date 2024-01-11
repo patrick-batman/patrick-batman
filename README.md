@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raunak Pandey</h1>
 <h3 align="center">Machine Learning and Quant enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patrick-batman&label=Profile%20views&color=0e75b6&style=flat" alt="patrick-batman" /> </p>
+<!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrick-batman&label=Profile%20views&color=0e75b6&style=flat" alt="patrick-batman" /> </p> -->
 
 - 📫 How to reach me **raunak.pandey.ece21@itbhu.ac.in**
 
